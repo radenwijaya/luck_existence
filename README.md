@@ -1,2 +1,3 @@
 # luck_existence
-data for proofing existence of luck
+directory 
+Proof: data for proofing existence of luck
